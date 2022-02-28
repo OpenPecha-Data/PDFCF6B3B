@@ -1,0 +1,99 @@
+Translator's Introduction
+
+Much has been written in recent years about the life of Gendün Chöpel (dGe ‘dun chos ‘phel,
+1903–1951) and his travels through India and Sri Lanka in the 1930s and 40s. The very latest
+offering, Grains of Gold: Tales of a Cosmopolitan Traveler (trans. Thupten Jinpa and Donald
+S. Lopez Jr, Chicago and London: University of Chicago Press, 2014), is in many ways
+the most fascinating.
+
+Read more
+
+function show_intro() {	document.getElementById('intro-readmore').style.display='none';	var
+e = document.getElementById('intro-hidden');	e.style.height = e.scrollHeight + "px";	return
+false;}		
+
+Part of what makes Gendün Chöpel’s story so intriguing is that the attitude of openness and
+curiosity that he exhibited in his travelogues, translations and essays was in such marked
+contrast to the official policy of insularism then prevailing in his homeland. And it was
+all the more tragic, therefore, when he was condemned and imprisoned by the Tibetan authorities
+before his premature death. For it meant that the country lost a liberal, modernising
+voice, precisely at a time when, it might be argued, it needed one most of all.Gendün Chöpel’s
+case might be unique, then, but he was not the only Tibetan to write about the encounter
+with modernity. As Tibetans fled the Himalayan plateau in the late 1950s and arrived
+in India and Nepal, they were confronted with a very different world. Among those who recorded
+their reaction to the new and the unfamiliar was the famed Rimé (ris med) master Jamyang
+Khyentse Chökyi Lodrö ('Jam dbyangs mkhyen brtse chos kyi blo gros, 1893–1959). His
+collection of praises to the sacred sites through which he passed mostly focuses on traditional
+places of pilgrimage, such as Bodh Gaya and Sarnath in India or Boudhanath and Yangleshö
+in Nepal, but it also includes a less typical work, In Praise of the Great Indian City
+of Kolkata (rgya gar ka la ka ta’i grong khyer chen po la bstod pa). This, Jamyang Khyentse
+says, was “an expression of his sense of wonder” (nyams mtshar brjod), and we can only
+imagine how the Indian metropolis might have appeared to a Tibetan visitor in the 1950s.
+Of course, I do not mean to suggest that Khyentse Rinpoche was in any way an ordinary or typical
+Tibetan visitor! He certainly wasn’t. By the time he first visited India in 1956, he
+was already established as one of the most senior Tibetan teachers then living. As the inheritor
+of the Rimé mantle of his predecessor, Jamyang Khyentse Wangpo (‘Jam dbyangs mkhyen
+brtse’i dbang po, 1820–1892), he held the transmissions for multiple lineages from various
+schools and was constantly called upon to teach or grant empowerments and transmissions.
+He also wrote a great deal.Returning to the subject of Kolkata, we should recall that in
+the late 1950s, when Jamyang Khyentse wrote his praise, the city had a population of around
+5 million. By contrast, Lhasa, the Tibetan capital, was then home to – according to some
+estimates – as few as 50,000 to 60,000 people. To get a sense of what a major Indian city
+looked like in 1958 we can watch the opening scenes of Roberto Rosellini’s India Matri
+Bhumi, filmed in Bombay, then a slightly smaller city than Kolkata. In fact, it is remarkable
+how closely Rossellini’s commentary mirrors some of Jamyang Khyentse’s own observations.
+For a look at Kolkata at the same time (and for an entirely magical cinematic experience)
+the reader is directed to Satyajit Ray’s The World of Apu (Apur Sansar), which was released
+in 1959.Jamyang Khyentse’s feelings of wonder at the sights and sounds of the city are
+expressed in traditional terms, and here, as in his other writings, there are references
+to Hindu (or Indic) mythology, with which he was obviously very familiar. He refers, for
+example, to the traditional etymology of Kolkata as a field – or ‘grove’ as he puts it – of
+Kālī, the consort of Mahādeva (i.e. Śiva). And the praise also speaks of the treasure vaults
+of Vaiśravaṇa, as well as Indra with his thousand eyes, and the languages of the kumbhāṇḍa
+and gandharva. This display of erudition is combined with an equally characteristic
+playfulness, through his use of metaphor. Thus, the swarms of people are like bees in search
+of nectar; the vehicles and machines roar like thunder; boats sparkle like stars and seem
+to have been deposited by the river; electric lights shine like jewels; and all the wares
+and produce on display appear to have been magically emanated through a bodhisattva’s prayers
+of aspiration. The whole scene, he feels, is like something from the deva realm mysteriously
+transported or somehow made visible down here on Earth.The greatest wonder of all
+though, Jamyang Khyentse says, was the opportunity to view the Buddha’s relics (ring bsrel).
+This is presumably a reference to the contents from the stūpa at Birdpur (now Piprahwa)
+in Uttar Pradesh, discovered in 1898 and then placed in Kolkata’s Indian Museum.Although
+the colophon does not specify the year of the text’s composition it was most likely 1958.
+
+In Praise of the Great Indian City of Kolkata
+
+by Jamyang Khyentse Chökyi Lodrö
+
+Oṃ svasti!Vast grove delighting Mahādeva’s mighty consort,Realm of the glorious Lord of the
+World,Eternal wonder transported to this land.Place where all eighteen trades are plied,[1]And
+people from every race in JambudvīpaGather spontaneously, like bees to honey.Such varied
+and splendid riches abound,As if Vaiśravaṇa's very troves of treasureHad offered up the
+world's wealth, with nothing wanting.All kinds of people—beautiful, ugly and in-between—As
+numerous as specks of dust,Come to vie with one another;Not even Indra's thousand eyes
+could behold them all!So many contraptions and machinesFill the ears with a thousand clatterings,Make
+earth tremble and air rumble like thunder,And the talk in kumbhāṇḍa, gandharva
+and other tongues –It's a wonder we aren't all deaf!Boats, sparkling like stars, sail back
+and forthAs if the Ganga herself—finely laid across Jambudvīpa,Had dragged them there, as
+precious stones.Plants and trees laden with fruit,And, better still, tangled grovesOf luscious
+greenery—a sight to behold!Mansions too, magnificently balconied,With silver and gold,
+many doorwaysAnd skylights to gladden any heart.Electric lights, like radiant gemstones,White,
+red, yellow, blue and green,Make it hard to tell night from day—Fools might even
+wonder which is which!Food, drink, clothing, adornments, garlands,And ointments—everything
+you might need—All are here, readily and instantly available,As if conjured by a bodhisattva’s
+prayer.That such a heavenly scene as thisShould exist here in this human realmSeems
+hardly possible, but I've seen it—Certain proof that it's no phantom!
+
+As for the pearl-like relics of the tathāgata,[2]Supreme amongst all precious vajra substances,Everything
+else in existence and peace, all gathered up,Would not approach even a fraction
+of their worth.With offerings from gods and men that defy the imaginationAll laid out
+before them, to look and see is to be liberated!These sacred objects gracing the world with
+their beautyAre more than worthy of veneration, both earthly and divine.
+
+These words of wonder were composed by Lodrö GyatsoIn the twelfth (rgyal) month,On the tenth
+day of the waxing moon,When the vīras and ḍākinīs gather.May they be virtuous!
+
+| Translated by Adam Pearcey and edited by Janine Schulz, 2014. With many heartfelt thanks to
+Ringu Tulku Rinpoche who kindly answered questions about the text. Originally published
+on adamspearcey.com.
